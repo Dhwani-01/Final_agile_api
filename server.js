@@ -984,7 +984,7 @@ const transporter = nodemailer.createTransport({
   auth: { 
     type: 'OAuth2', 
     user: 'godhadhwani@gmail.com', 
-    pass: 'Focus@33', 
+    pass: 'write your mail password', 
     clientId: '686641609968-kprchi5deas5d5pv6rrokneu2kkg83al.apps.googleusercontent.com', 
     clientSecret: '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', 
     refreshToken: '1//04HfAu6uonz3gCgYIARAAGAQSNwF-L9Irq3t7TgFHxXFuFOnA9UHhO7nqjeXffUFrzJUAvUucq75Xl8VsbFEv31ZvJwpiJWBcJ7E'
